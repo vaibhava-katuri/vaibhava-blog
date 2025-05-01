@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+header, footer {
+  background-color: #f3f3f3;
+  text-align: center;
+  padding: 10px;
+}
+article {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+#new-post {
+  background-color: #f9f9f9;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
+input, textarea {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+button {
+  padding: 8px 15px;
+}
